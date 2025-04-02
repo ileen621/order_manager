@@ -1,0 +1,45 @@
+[
+    {
+        "order_id": "O002",
+        "customer": "李小華",
+        "items": [
+            {
+                "name": "雞腿飯",
+                "price": 80,
+                "quantity": 1
+            },
+            {
+                "name": "味噌湯",
+                "price": 20,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": "O003",
+        "customer": "王小英",
+        "items": [
+            {
+                "name": "炒飯",
+                "price": 90,
+                "quantity": 2
+            },
+            {
+                "name": "可樂",
+                "price": 30,
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": "O001",
+        "customer": "haha",
+        "items": [
+            {
+                "name": "ddddddd",
+                "price": 10,
+                "quantity": 1
+            }
+        ]
+    }
+]

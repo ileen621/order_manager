@@ -1,0 +1,18 @@
+[
+    {
+        "order_id": "O001",
+        "customer": "張小明",
+        "items": [
+            {
+                "name": "牛肉麵",
+                "price": 120,
+                "quantity": 2
+            },
+            {
+                "name": "滷蛋",
+                "price": 15,
+                "quantity": 2
+            }
+        ]
+    }
+]
